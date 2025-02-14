@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "122196712647",
+    "firebase_url": "https://mysampleex-37116-default-rtdb.firebaseio.com",
+    "project_id": "mysampleex-37116",
+    "storage_bucket": "mysampleex-37116.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122196712647:android:ad92c4e9c6a0b6257372e2",
+        "android_client_info": {
+          "package_name": "com.Noah.MySampleEx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7F8LTIXHnGpei8O9D8BKYDNorT85t8_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
